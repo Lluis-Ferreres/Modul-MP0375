@@ -54,5 +54,5 @@ Agraïments a les següents webs:
 [Teoria sobre DNS](https://www.profesordeinformatica.com/servicios/dns "Ampliació de coneixements")  
 [Limitació de servidors arrel](https://www.lifewire.com/dns-root-name-servers-3971336 "Ampliació de coneixements")   
 [Nombre màxim de nivells de domini](https://www.byronvargas.com/web/cuantos-niveles-puede-tener-un-nombre-de-dominio-2/?expand_article=1 "Ampliació de coneixements")  
-[Sobre els registres SRV](https://www.cloudflare.com/learning/dns/dns-records/dns-srv-record/ "Ampliació de coneixements")
+[Sobre els registres SRV](https://www.cloudflare.com/learning/dns/dns-records/dns-srv-record/ "Ampliació de coneixements")  
 [Sobre els registres PTR](https://www.cloudflare.com/learning/dns/dns-records/dns-ptr-record/ "Ampliació sobre registres PTR")
