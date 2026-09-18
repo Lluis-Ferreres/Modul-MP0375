@@ -3,7 +3,7 @@ El sistema de noms de domini (**D**omain **N**ame **S**ystem o **DNS**) s'utilit
 
 En concret el DNS ens permet generar una base de dades on relacionarem les IPs dels equips on es troba la informació compartida en xarxa amb noms que facilitaran recordar com accedir-hi.
 
-En un principi s'utilitzaven mètodes més arcaics i que es mantenen a dia d'avui per si no és necessària la presència d'un servidor, però que són extremadamen lents i difícils de matenir quan la xarxa d'equips interconnectats comença a augmentar.  
+En un principi s'utilitzaven mètodes més arcaics i que es mantenen a dia d'avui per si no és necessària la presència d'un servidor, però que són extremadament lents i difícils de mantenir quan la xarxa d'equips interconnectats comença a augmentar.  
 El mètode consisteix a generar un fitxer de text on es relaciona la IP amb l'identificador de l'equip al que es vol accedir.  
 Els problemes que això presenta:
 * Actualització a cada equip on es desitja utilitzar-ho
@@ -17,7 +17,7 @@ Aquest mètode ens pot resultar útil a nivell local, per implementar petites pr
 Tota la configuració del DNS es pot configurar mitjançant la correcta configuració del servidor DHCP.
 
 ## Definicions
-**Domini**: és el nom que representa una unió d'equips relacionats d'alguna forma. Quan es defineix un domini és per relacionar i localitzar amb més facilitat informacions que pertànyen a una determinada organització o contingut. D'aquesta manera tots els equips que contenen informació i estan relacionats resulten més senzills de localitzar i organitzar. Un domini té una estructura dintre de la base de dades que permetrà la seva ubicació. Tot seguit passem a descriure-ho.
+**Domini**: és el nom que representa una unió d'equips relacionats d'alguna forma. Quan es defineix un domini és per relacionar i localitzar amb més facilitat informacions que pertànyen a una determinada organització o contingut. D'aquesta manera tots els equips que contenen informació i estan relacionats resulten més senzills de localitzar i organitzar. Un domini té una estructura dintre de la base de dades que permetrà establir la seva ubicació. Tot seguit passem a descriure-ho.
 
 * **TLD**: **T**op **L**evel **D**omain s'anomenen dominis de primer nivell. Dintre de l'estructura de noms de domini, ens permet reorganitzar la informació per organitzacions comercials, militars, governs, per finalitats, ubicacions geogràfiques, continguts culturals, etc. Dintre d'aquests TLD trobem alguns com els següents: *.com, .cat, .gov, .it, .io, .es, .net, .edu, .org*, etc.
 
